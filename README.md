@@ -8,7 +8,7 @@ And there are also many interesting machine learning problems shown is the cours
 ******
 **Note:** If you consult my source codes that you may want to incorporate into your algorithm or system, you should clearly cite references in your codes.
 ******
-**BTW:** I have got Grade Achieved: 99.6% on this class. This is the snapshot of my [certificate](https://www.coursera.org/account/accomplishments/certificate/5ZRHYV6JF6AN)
+**BTW:** I have got Grade Achieved: 99.6% in this course. This is the snapshot of my [certificate](https://www.coursera.org/account/accomplishments/certificate/5ZRHYV6JF6AN)
 ******
 ## Table of Contents
 * [Assignment 1](https://github.com/zlpure/Machine-Learning--Coursera/tree/master/machine-learning-ex1)
