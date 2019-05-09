@@ -1,4 +1,4 @@
-## My Solution of Assignments of Machine-Learning on Coursera
+## My Solution to Assignments of Machine-Learning on Coursera
 This is my solution to the assignments of Machine-Learning on Coursera.
 [Machine-Learning on Coursera](https://www.coursera.org/learn/machine-learning/home/welcome) is
 a classical class, whose advisor is Andrew Ng. When you finish this class, 
